@@ -1,6 +1,6 @@
 <?php
 
-namespace dastanaron;
+namespace dastanaron\spamchecker;
 
 class SpamChecker {
 

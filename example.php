@@ -1,6 +1,6 @@
 <?php
 
-use dastanaron\SpamChecker;
+use dastanaron\spamchecker\SpamChecker;
 
 $checker = new SpamChecker('blacklist.txt', 5);
 
