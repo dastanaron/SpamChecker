@@ -42,7 +42,7 @@ Host 1.0.168.192.all.spamrats.com not found: 3(NXDOMAIN)
 Пример
 =================
 ```php
-use dastanaron\SpamChecker;
+use dastanaron\spamchecker\SpamChecker;
 
 $checker = new SpamChecker('blacklist.txt', 5);
 
