@@ -1,0 +1,21 @@
+{
+  "name": "dastanaron/spamchecker",
+  "description": "json information for ip and host, included blacklists",
+  "type": "extension",
+  "keywords": ["extension"],
+  "license": "GPL-3.0+",
+  "authors": [
+    {
+      "name": "dastanaron",
+      "email": "flow199@yandex.ru"
+    }
+  ],
+  "require": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "dastanaron": ""
+    }
+  }
+}
